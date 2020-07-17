@@ -1,0 +1,20 @@
+results_loc:
+    "/datahome/oenothera/transcripts/assemblies/snakemake-trinotate/results"
+assemblies:
+    "/datahome/oenothera/transcripts/assemblies/snakemake-trinity/results/assemblies"
+test:
+    "/datahome/oenothera/transcripts/assemblies/snakemake-trinotate/test"
+TRINOTATE:
+    "/home/progs/Trinotate-Trinotate-v3.2.1"
+DB:
+    "/datahome/public/trinotate"
+TRANSDECODER:
+    "/home/progs/TransDecoder-TransDecoder-v5.5.0"
+SIGNALP:
+    "/home/progs/signalp-4.1"
+TMHMM:
+    "/home/progs/tmhmm-2.0c/bin"
+RNAMMERTRANS:
+    "/home/progs/Trinotate-Trinotate-v3.2.1/util/rnammer_support"
+RNAMMER:
+    "/home/progs/RNAMMER"
